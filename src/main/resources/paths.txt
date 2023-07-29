@@ -1,0 +1,2 @@
+/home/alitariverdy/Downloads/scala-bootcamp-master/build.sbt
+/media/MainVolume/Job/CodeDev/IdeaProjects/RocktheJVM-CatsEffect/build.sbt
